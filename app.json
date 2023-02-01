@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "uber-react-native",
-    "slug": "uber-react-native",
+    "slug": "myuberclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7e05407c-dedc-4591-a117-3cc00926cce7"
+      }
+    },
+    "owner": "joaoyamashita"
   }
 }
