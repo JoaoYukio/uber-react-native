@@ -13,6 +13,9 @@ import { KeyboardAvoidingView } from "react-native";
 // Deps : npm install @react-navigation/native, icons, tailwind -> twrnc, stackNavigator
 // react-native-google-places-autocomplete, redux
 
+// Cmd para gerar link: expo publish
+// Link desse projeto: https://expo.dev/@joaoyamashita/myuberclone?serviceType=classic&distribution=expo-go
+
 export default function App() {
 	const Stack = createNativeStackNavigator();
 
